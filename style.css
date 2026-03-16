@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    background-color:antiquewhite;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+p {
+    text-align: justify;
+    background-color: burlywood;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 5px;
+}
+
+.fundo {
+    background-color: burlywood;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
